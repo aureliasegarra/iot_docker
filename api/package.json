@@ -4,7 +4,7 @@
   "description": "Node.js API for a small IoT project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": ["api", "nodejs", "iot"],
   "author": "Aurelia Segarra",

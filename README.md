@@ -33,3 +33,6 @@ This project is used to improve several Docker concepts :
 * Visualisation done with Grafana, to build metrics and analytic dashboard
 
 ## How to launch the API
+```
+npm start
+```
