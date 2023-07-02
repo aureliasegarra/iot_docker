@@ -31,3 +31,5 @@ This project is used to improve several Docker concepts :
 * HTTP API that receives the data
 * Data stored then in database (InfluxDB)
 * Visualisation done with Grafana, to build metrics and analytic dashboard
+
+## How to launch the API

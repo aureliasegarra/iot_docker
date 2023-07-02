@@ -1,0 +1,12 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Node.js API for a small IoT project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["api", "nodejs", "iot"],
+  "author": "Aurelia Segarra",
+  "license": "ISC"
+}
